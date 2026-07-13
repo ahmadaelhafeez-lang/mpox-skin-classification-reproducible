@@ -1,0 +1,6 @@
+Class,Total,Training,Validation,Test
+Monkeypox,277,221,28,28
+Chickenpox,106,85,10,11
+Measles,90,72,9,9
+Normal,293,234,30,29
+Total,766,612,77,77
